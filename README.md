@@ -27,4 +27,5 @@ Some people are requesting automation, but there are no plans for that (at this 
 ## Updates:
 
 ### 9/30/24:
-- #### 2:00PM: Made the "If ordering, save PDF first!!" label text red if there is no PDF saved within the last 10 minutes and green if there is.
+- #### 2:00PM:
+  Made the "If ordering, save PDF first!!" label text red if there is no PDF saved within the last 10 minutes and green if there is.
