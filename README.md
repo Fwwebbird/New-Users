@@ -3,7 +3,7 @@
 ## What Everything Does:
 
 ### Order:
-- Opens email and immediately adds Jodi and Mike to the recipients.
+- Opens email and immediately adds J and M to the recipients.
 - Attaches PDF to that email, and asks what is going to be ordered so you don't have to type it all out.
 
 ### Barcode Guns:
@@ -29,4 +29,3 @@ Some people are requesting automation, but there are no plans for that (at this 
 ### 9/30/24:
 - Made the "If ordering, save PDF first!!" label text red if there is no PDF saved within the last 10 minutes and green if there is.
 - Added a timer to consistently check the download folder so that the text will go red or green without having to click the checkbox over and over again.
-egg
