@@ -13,7 +13,7 @@
 - Opens Rundeck and loads a text file that contains all the necessary information for Katie.
 
 ### Webb Email:
-- Opens a textbox to enter the email groups the user will be in.
+- Opens a textbox to enter the email groups the user will be in. **Note:** You don't need to enter allusers or their branch.
 - Also opens the new mailbox and alias page in Postfix. 
 - **Note:** Ensure you're logged into Postfix before running this or it will do nothing, forcing multiple login sessions.
 
