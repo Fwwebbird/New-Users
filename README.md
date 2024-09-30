@@ -18,7 +18,7 @@
 - **Note:** Ensure you're logged into Postfix before running this or it will do nothing, forcing multiple login sessions.
 
 ### Elevate:
-- Opens the Elevate tab.
+- Opens an Elevate tab.
 
 Some people are requesting automation, but there are no plans for that (at this time 😉).
 
