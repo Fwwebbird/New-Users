@@ -1,16 +1,30 @@
-Hello. 
-These are the updates and notes for the latest builds of my "Barcode Guns"/new user program. 
-Let me know if you see any bugs or whatever ty.
+# Barcode Guns - Latest Build Updates and Notes
 
-What everything does:
-Order: Opens email and immediately adds Jodi and Mike to the recievers. Adds PDF to that email, and asks what is going to be ordered so you don't have to type it all out.
-Barcode Guns: Makes a text file that puts in the code for Accuterm that makes a new Barcode user.
-Accuterm/CRM: Opens Rundeck and opens a text file that gives all the information for Katie.
-Webb Email: Opens a textbox to enter in what email groups the user will be in. Also opens new mailbox and alias page in postfix. (Make sure you're logged into postfix before running this or it will do nothing and make you login to 10 different sessions.)
-Elevate: Opens Elevate tab.
+## What Everything Does:
 
-Some people are asking for automation but I have no plan for that (at this time ;) ).
-Updates:
+### Order:
+- Opens email and immediately adds Jodi and Mike to the recipients.
+- Attaches PDF to that email, and asks what is going to be ordered so you don't have to type it all out.
 
-9/30/24
- -Made the "If ordering, save PDF first!!" label text red if there is no PDF saved from the last 10 minutes and green if there is.
+### Barcode Guns:
+- Creates a text file that generates code for Accuterm to make a new Barcode user.
+
+### Accuterm/CRM:
+- Opens Rundeck and loads a text file that contains all the necessary information for Katie.
+
+### Webb Email:
+- Opens a textbox to enter the email groups the user will be in.
+- Also opens the new mailbox and alias page in Postfix. 
+- **Note:** Ensure you're logged into Postfix before running this or it will do nothing, forcing multiple login sessions.
+
+### Elevate:
+- Opens the Elevate tab.
+
+Some people are requesting automation, but there are no plans for that (at this time 😉).
+
+---
+
+## Updates:
+
+### 9/30/24:
+- Made the "If ordering, save PDF first!!" label text red if there is no PDF saved within the last 10 minutes and green if there is.
