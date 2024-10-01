@@ -1,4 +1,4 @@
-# Barcode Guns - Latest Build Updates and Notes
+# New Users - Latest Build Updates and Notes
 
 ## What Everything Does:
 
